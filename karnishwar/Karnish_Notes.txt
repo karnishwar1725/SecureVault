@@ -1,0 +1,8 @@
+Design overview for karnishwar.
+This document contains the latest changes and observations.
+Key points:
+- Completed initial data processing.
+- Identified three potential issues and suggested fixes.
+- Next steps include testing and deployment.
+
+Generated on 2025-12-11 22:01:10

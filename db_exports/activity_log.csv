@@ -1,0 +1,48 @@
+id,userid,action,details,ts
+16,aarav,login,User logged in,2025-12-11 22:41:20
+17,aarav,logout,User logged out,2025-12-11 22:41:30
+18,anandha,login,User logged in,2025-12-11 22:41:54
+19,anandha,logout,User logged out,2025-12-11 22:42:03
+20,arjun,login,User logged in,2025-12-11 22:57:59
+21,arjun,logout,User logged out,2025-12-11 22:58:33
+22,arjun,login,User logged in,2025-12-11 22:59:45
+23,arjun,login,User logged in,2025-12-11 23:14:58
+24,arjun,login,User logged in,2025-12-11 23:20:53
+25,admin,signup,New account created,2025-12-11 23:23:14
+26,admin,login,User logged in,2025-12-11 23:23:24
+27,admin,logout,User logged out,2025-12-11 23:23:55
+28,admin,login,User logged in,2025-12-11 23:36:19
+29,admin,login,User logged in,2025-12-11 23:36:49
+30,admin,logout,User logged out,2025-12-11 23:37:04
+31,admin,login,User logged in,2025-12-11 23:40:06
+32,admin,logout,User logged out,2025-12-11 23:40:41
+33,admin,login,User logged in,2025-12-11 23:41:02
+34,admin,logout,User logged out,2025-12-11 23:41:37
+35,admin,login,User logged in,2025-12-11 23:45:54
+36,admin,logout,User logged out,2025-12-11 23:46:11
+37,admin,login,User logged in,2025-12-11 23:49:45
+38,admin,support,Login Issue: Login problem,2025-12-11 23:50:18
+39,DBS,signup,New account created,2025-12-13 12:26:21
+40,DBS,login,User logged in,2025-12-13 12:26:32
+41,DBS,logout,User logged out,2025-12-13 12:26:38
+42,Programming,signup,New account created,2025-12-13 12:38:26
+43,DBS,login,User logged in,2025-12-13 12:38:48
+44,DBS,upload,Uploaded Paper 1.pdf,2025-12-13 12:39:40
+45,DBS,upload,Uploaded Paper 2.pdf,2025-12-13 12:39:47
+46,DBS,upload,Uploaded Paper 3.pdf,2025-12-13 12:39:51
+47,DBS,upload,Uploaded Paper 4.pdf,2025-12-13 12:39:54
+48,DBS,support,Login Issue: issue with login,2025-12-13 12:41:07
+49,DBS,logout,User logged out,2025-12-13 12:41:20
+50,admin,login,User logged in,2025-12-13 12:54:26
+51,Dublin,signup,New account created,2025-12-13 20:37:06
+52,Dublin,login,User logged in,2025-12-13 20:38:35
+53,Dublin,upload,Uploaded Paper 2.pdf,2025-12-13 20:38:49
+54,Dublin,upload,Uploaded Paper 3.pdf,2025-12-13 20:38:53
+55,Dublin,rename,Paper 2.pdf → 2.pdf,2025-12-13 20:39:10
+56,Dublin,delete,Deleted 2.pdf,2025-12-13 20:39:13
+57,Dublin,support,Upload Issue: Issue,2025-12-13 20:40:08
+58,Dublin,logout,User logged out,2025-12-13 20:40:17
+59,admin,login,User logged in,2025-12-13 20:49:53
+60,admin,logout,User logged out,2025-12-13 20:49:58
+61,admin,login,User logged in,2025-12-13 20:50:24
+62,admin,logout,User logged out,2025-12-13 20:50:51
